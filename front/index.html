@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Page Title</title>
+    <link rel='stylesheet' type='text/css' media='screen' href='./style.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+<img src="./IEEE_White_Logo.png">
+ <h1>Welcome!</h2>  
+<div class="center">
+      
+      <form action="submit-form" method="POST"> 
+          <div id="comp" >
+                <label>FirstName:</label>
+                <input type="text" placeholder="your firstname" name="firstname"required>
+          </div>
+            <div id="comp">
+                <label>LastName:</label>
+                <input type="text" name="lastname" placeholder="your lastname" required>
+            </div>
+         <div id="comp">
+                <label>E-mail:</label>
+                <input type="email" name="email" placeholder="Ex@gmail.com" required>
+         </div>
+        <div id="comp">
+                <label>Phone Number:</label>
+                <input type="text"  name="phone"placeholder="01*********" required>
+        </div>
+          <div class="radio">
+          <label >Gender:</label> 
+           <p>Male</p><input type="radio" value="Male" name="gender" >
+           <p>Female</p><input type="radio" value="Female" name="gender">
+          </div>
+          <div id="comp">
+                <label>University:</label>
+                <input type="text" name="university"placeholder="university" required>
+          </div>
+          <div id="comp">
+                <label>Faculty:</label>
+                <input type="text" name="Faculty"required>
+          </div>
+        <div id="temp">
+            <label>First preferance</label>
+          <select name="course1" required>
+              <option value="embedded">Embedded systems</option>
+              <option value="web">Web development</option>
+              <option value="data structure and algorithms">Data structure and Algorithms </option>
+              <option value="medical equipments">Medical Equipments</option>
+          </select>
+        </div>
+         
+          <div id="temp">
+            <label>Second preferance</label>
+           <select name="course2" required>
+              <option value="embedded">Embedded systems</option>
+              <option value="web">Web development</option>
+              <option value="data structure and algorithms">Data structure and Algorithms </option>
+              <option value="medical equipments">Medical Equipments</option>
+          </select>
+          </div>
+          <textarea name="comment" placeholder="write any comment you have"></textarea>
+          <div class="butt">
+                <button type="submit" name="submit"> Submit</button>
+          </div>
+          
+      </form>
+  </div>
+    
+</body>
+</html>

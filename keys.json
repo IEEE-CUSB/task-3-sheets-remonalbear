@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ieee-tas",
+  "private_key_id": "30f2d88617047aba4e614cbacb3caa65b6f5aafc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCsE2XQJ0Y6hZ2K\n4py/GDcVjv+KoLVQ9PSUT6Dbx1dShPDVBmQxCMCEZ/kQqGcLUJAAYur6lu1ALxrM\ncSvI3iYBrIG1zqcNeroj3zbLvE2tdJv6fxTbq4jurCV369edmuacIBZyDRg9ETzc\nyjHbnILeyv5B0I0qh+6FW/lVcadA75EV5VKwWqNmFP9/mu/yR+YJnfmQDz6542h6\nuNJUxXOMgOnsYVmFK2DBOSso3wDynZg6bDTiZQS27gUhejfWNXYwR5D5/pYgYdmr\nxGFWxElms3bwcYS4mjScfyFufaRXJIjczF3JU5BTX1P5WazeTPauc02EP7fCJilb\ndik2UzhHAgMBAAECggEAPq3SKEAmFKsW98AT2Ie5iODNtHFVmmefr2ZR8bxq0mQa\nVX4+gJ3vgktdLfQplLWDvqBJd34CbZ665D1U9ZX1wiZUGSVtNDvAEdD85Llykfwn\n1Nb1gg65kjaib0w4/e+ukLAffOvIKHZe9Q2xm40nHoBSnSaaRSO+flVCPR1pDv2a\n5ynU9ndq+q23fA1dA0tyWbN+iaC5F8T2TS2TLoNHPB3GoE+UIwxGC0JO+sZ3SHqw\n+QnE86Dv/iizjSPXad4ckha/Mpi89vskRdbOV9E1Gy48RYSNimRwQQyyeRWt70S6\nGaTYX7t6K+8toC5Avmbrc5NMRIy/mxb2hdXAKmKmAQKBgQDofpst0n4JruMPBpKl\nbmgeGZlwUr5OhLQ6RDZ02lA/7KjLyLFklANcEPx3tyZDfg7lT1CoIajuPqtfFv0F\n09X9AA7evjJjf4wU8vuGekWFS+O6kyB8r2CWMxAXMqv982mzc1fOLeIFv0+iLMhL\nvsBTHvXhSq8f+9tKQOTp6xtG0wKBgQC9eQpbbSvbENbOZROwmWcZNk22kWYvbiuZ\nFd38Z6+mP1yMqJi+3Zdy70olZ+IRtphgsNOBzK6qYgh2yxiZf2WUz5XZ8Ls3Q5RG\nbVdk/9iJSnmxg73z+OdRJCW8neBUqeDTBvqLcK2pClo65llvDqb08wVRM85RV41B\noEUAJnhIPQKBgQCI7XfrZttATLYBtXdM41eC0sThuHnIuLOE1YPVEnbND07iplKD\n0ACiioaG42EvwuB3AV2ZiCl8F4DKwjlG41pWZWBco1v96bLQ68Jjk0O6m9WFnv01\nMf0KuQwy/W76ZA/O1pHSJofFpsT52LImmjOfQM7DXz8A8U5XzxyDACrSbQKBgF+k\ni//eufaZJ3WEPE43AX4OlWgFOWnT2RormaThyh7HeTZfnMssHFkeRXVgXRPH8l9M\no1ewNLM5TUB6AO7rCiH2L5SWGkspR93NMAKBy5JyD7/12psfF9UzxADUSPszzZN4\nwFxHAsKDwUxeHuMaqFiZnCODXTBeW6W2+126DZmZAoGBALqoBLuX5jxJ8ClNJ/mz\nOqqsAKQnc9NzZLdv3ADqn1W7HKfVX8g/WqxxIRwGvgdqnRBxCAtvaBW4jLNSPi29\niXsY46XwFuPQMy1xObWtNggbNLE3iEKESx3iMpCEW407SBXXTVtNG5MjD7Jqovca\nMG9fgon3Nd5D/GvL47p96Hx2\n-----END PRIVATE KEY-----\n",
+  "client_email": "id-ieee-form@ieee-tas.iam.gserviceaccount.com",
+  "client_id": "101039596459597312445",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/id-ieee-form%40ieee-tas.iam.gserviceaccount.com"
+}

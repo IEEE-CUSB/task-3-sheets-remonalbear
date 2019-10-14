@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+    background-color:rgba(0, 181, 226, .6);
+}
+h1{
+    text-align: center;
+    color: white;
+}
+img{
+    margin: 25px;
+    width: 125px;
+    height: 125px;
+    position: relative;
+}
+.center{
+   width:500px;
+   height: auto;
+   margin: auto;
+   background-color: #009CA6;
+   box-sizing: border-box;
+   border: 1px black solid;
+   color: white;
+   padding: 15px;
+   padding-top: 20px;
+ }
+#comp{
+    margin: 5px;
+    margin-bottom: 10px;
+    width: 100%
+}
+#comp label{
+    font-size: large;
+}
+#comp input{
+    width: 50%;
+    height:20px;
+    outline-color: #002855;
+    border-radius: 2px;
+
+}
+
+.radio label{
+ font-size: large;
+ margin: 5px;
+}
+.radio p{
+    font-size: small;
+    margin: 10px;
+}
+
+#temp{
+    margin: 5px;
+    margin-bottom:10px;
+}
+#temp label{
+font-size: large;
+
+}
+#temp select{
+    margin: 5px;
+    color: #002855;
+    outline-color: #002855;
+    
+}
+.center textarea{
+margin: 10px 10px auto;
+ width: 350px;
+ height: 50px;
+ outline-color:#002855; 
+}
+.butt{
+margin: 50px auto 25px 360px;
+
+}
+.butt button{
+background-color: #75787B;
+color:white;
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+    padding:2px;
+    border: 1px solid #002855;
+    border-radius:2px; 
+}
+
+input:focus ,textarea:focus{
+    box-shadow: 0 0 4px rgba(117, 115, 119, 0.5);
+}
+button{
+    cursor: pointer;
+}
+button:hover{
+    background-color: #002855;
+}
